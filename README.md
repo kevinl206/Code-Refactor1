@@ -1,8 +1,8 @@
-# Code-Refactor1
+
 # Code-Refactor
-1.) Added header tag on line 12 and ended on line 28
+1.) Added <header> on line 12 and ended on line 28
 <br>
-2.) Removed div on line 14 and 26
+2.) 
 <br>
 3.) Added a alt to the img on line 34
 <br>
@@ -21,9 +21,11 @@
 10.) Replace div and made line 56,64 and 71 into section
 <br>
 11.) Changed line 12
-
-12.) i made changes to the CSS by condensing the side bar into one class.
+<br>
+12.) I made changes to the CSS by condensing the side bar into one class.
  -the IMG, the h3, and the P.
+ <br>
  13.) I put the search Engine Optimization, Online Reputation Managment, and Social Media Marketing in to section in the CSS.
- 14.)
+ <br>
+ 14.) Added a <title> name on line 7
  
