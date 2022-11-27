@@ -29,3 +29,12 @@
  <br>
  14.)  Group h2 together since they have the same properties since the share the same properties.
 
+## Screenshots
+![screenshot](./assets/images/screenshot1.png)
+![screenshot](./assets/images/screenshot2.png)
+![screenshot](./assets/images/screenshot3.png)
+![screenshot](./assets/images/screenshot4.png)
+![screenshot](./assets/images/screenshot5.png)
+![screenshot](./assets/images/screenshot6.png)
+![screenshot](./assets/images/screenshot7.png)
+
